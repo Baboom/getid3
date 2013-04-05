@@ -1,0 +1,20 @@
+{
+    "name": "triworks/pinxi/getid3",
+    "description": "This release of GetId3 library makes it Symfony 2.x installable by deps or composer mechanisms.",
+    "keywords": ["getid3", "tags", "metadata"],
+    "type": "library",
+    "license": "GPL",
+    "homepage": "http://www.getid3.org",
+    "authors": [
+        {
+            "name":     "James Heinrich",
+            "homepage": "http://www.getid3.org",
+            "email":    "info@getid3.org"
+        }
+    ],
+    "autoload": {
+       "classmap": [
+        "getid3/"
+      ]
+    }
+}
