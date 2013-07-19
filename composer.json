@@ -1,5 +1,5 @@
 {
-    "name": "triworks/pinxi/getid3",
+    "name": "baboom/pinxi/getid3",
     "description": "This release of GetId3 library makes it Symfony 2.x installable by deps or composer mechanisms.",
     "keywords": ["getid3", "tags", "metadata"],
     "type": "library",
